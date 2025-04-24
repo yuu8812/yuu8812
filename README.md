@@ -29,8 +29,6 @@
 ## 🌍 SNS・リンク集
 
 - GitHub: [@yuu8812](https://github.com/yuu8812)
-- Twitter: [@yuu8812](https://twitter.com/yuu8812)（技術・創作系つぶやき）
-- Zenn: [@yuu8812](https://zenn.dev/yuu8812)（予定があればここも）
 
 ---
 
